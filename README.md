@@ -1,2 +1,1 @@
-# modulx-eip7702-authorization-tool-zip
-Frontend
+Eip7702 autorization utility zip file
